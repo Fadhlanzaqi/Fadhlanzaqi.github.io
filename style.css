@@ -1,12 +1,11 @@
-.jumbotron{
-    padding top: 2rem;
+.jumbotron {
+    padding-top: 6rem;
     background-color: #C2C2C2;
 }
 
 #projects{
     background-color: #C2C2C2;
 }
-
-.card {
-    justify-content: center;
+section {
+    padding-top: 6rem;
 }
