@@ -1,4 +1,12 @@
 .jumbotron{
-    padding: 2rem 1rem;
-    background-color: #e2edff;
+    padding top: 2rem;
+    background-color: #C2C2C2;
+}
+
+#projects{
+    background-color: #C2C2C2;
+}
+
+.card {
+    justify-content: center;
 }
